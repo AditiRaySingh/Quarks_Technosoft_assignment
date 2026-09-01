@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background-color: #eee;
+    font-family: "Open Sans" ,Arial,sans-serif;
+}
+
+.page{
+   margin:auto;
+   background:#fff; 
+   max-width: 1500px;
+}
+
+.header{
+    height:155px;
+    padding:15px 25px 5px;
+}
+
+.logo{
+    width:300px;
+}
+
+.top{
+ font-size: 17px;
+ color:#173b55;
+}
+
+.top a{
+    color: rgb(17, 17, 139);
+    text-decoration: none;
+}
+
+.top .bi-telephone-fill{
+    color:  #d6af44;
+    font-size: 20px;
+}
+
+.top .bi-translate,
+.top .bi-person-circle {
+    font-size: 18px;
+}
