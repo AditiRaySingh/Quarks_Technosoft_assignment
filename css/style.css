@@ -20,21 +20,23 @@ body {
     padding: 15px 25px 5px;
 }
 
+
 .header > .col:first-child {
     width: 330px;
     flex: 0 0 330px;
 }
+
 
 .header > .col:last-child {
     flex: 1;
     min-width: 0;
 }
 
+
 /* logo */
 .logo {
     width: 300px;
-    height: auto;
-    display: block;
+    height: auto; 
 }
 
 /* top */
@@ -99,8 +101,8 @@ main .col-lg-4 {
 
 .card-box {
     height: 245px;
-    position: relative;
-    overflow: hidden;
+    /* position: relative;
+    overflow: hidden; */
 }
 
 .card-box a {
